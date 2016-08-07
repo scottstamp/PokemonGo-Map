@@ -1,7 +1,7 @@
 # Authentication settings
-#auth-service:          # ptc (default) or google
-#username:
-#password:
+auth-service: ptc
+username: [AxpRzzKvrJZc, IDWzWZiIGikN, DZkpGkVRSSmi, eUhMKLdipLhd, SYAawctxOLGG, vYjovKNlEdpZ, sboOrAboPkRc, wpWeQZIQXEag, wjMPqulLRYKK, MGpnTvSxodJi, jhuFUJLDQNUt, kSfuuDoTmNpO, bHApWvckRdWh, QRSuoVdagLDB, cENxIRiMwrkj, rkzpigECxDGE, pxzErHNZULNI, QXDghMPkDhTV, xOcaPIFuPLtV, DJwCqQSWIwCP, ihfUWzkGDzuA, IHeIWGpLovPX, VFEDYpSvYqLQ, UuemlkfOerew, uxHLvJOwciUP, cdLcKTPcdjNI, ODorRHGyYOKL, ssjjtPjxJZXi, jxPcndKUqlTg, hjUIxnearmjt, qHdrFQTJnvYQ, wKoRjnsmRwJQ]
+password: scottstamp
 
 # Database settings
 #db-type: sqlite        # sqlite (default) or mysql
